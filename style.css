@@ -1,0 +1,18 @@
+@import url("styles/header.css");
+@import url("styles/banner.css");
+@import url("styles/carrosel.css");
+@import url("styles/topicos.css");
+@import url("styles/contato.css");
+@import url("styles/footer.css");
+
+
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #ffffff;
+    --laranja: #EB9B00;
+    --azul-degrad: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --novoazul: #002f52;
+
+    
+
+}
